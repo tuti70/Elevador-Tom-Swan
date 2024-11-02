@@ -1,0 +1,15 @@
+Nome de arquivo	Descrição
+ACTION.CPP	Módulo da classe action
+ACTION.H	Arquivo de cabeçalho para ACTION.CPP
+BUILDING.CPP	Módulo de construção de classe
+BUILDING.H	Arquivo de cabeçalho para BUILDING.CPP
+ELEVATOR.CPP	Módulo da classe elevator
+ELEVATOR.H	Arquivo de cabeçalho para ELEVATOR.CPP
+ELEVSIM.CPP	Programa principal da simulação do elevador
+259*ELEVSIM.H	Arquivo geral de cabeçalho da simulação
+ELEVSIM.LNK	Arquivo de resposta de link-edição
+FLOOR.CPP	Módulo da classe floor
+FLOOR.H	Arquivo de cabeçalho para FLOOR.CPP
+264*PERSON.CPP	Módulo da classe person
+261*PERSON.H	Arquivo de cabeçalho para PERSON.CPP
+ZZ.BAT	Arquivo batch para compilar a simulação
